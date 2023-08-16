@@ -1,6 +1,9 @@
 https://youtu.be/GQ_pTmcXNrQ?t=7523
 backend done!
 
+https://youtu.be/GQ_pTmcXNrQ?t=9843
+Changes with frontend... before authorisation.
+
 https://jwt.io/ (paste token there)
 
 Список команд проекта:
@@ -12,6 +15,8 @@ npm i express-validator
 npm i mongoose
 npm i bcrypt
 npm i multer
+npm i cors
+npm install react-markdown
 
 http://localhost:4444/auth/login
 в INSOMNIA прописываем в метод POST:
