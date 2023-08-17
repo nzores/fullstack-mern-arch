@@ -2,6 +2,9 @@
 
 mongodb+srv://Anzor:sd2bt47zbk@cluster0.6aho9m0.mongodb.net/blog
 
+Deployed to Heroku:
+https://kabardaev-mern-blog-7e9af6e1439d.herokuapp.com/
+
 backend done!
 
 
